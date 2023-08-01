@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Raspberry Pi**
 
-- 👨‍💻 All of my projects are available at [https://github.com/himanshu21072002](https://github.com/himanshu21072002)
+
 
 - 💬 Ask me about **Flutter, MERN, Firebase**
 
