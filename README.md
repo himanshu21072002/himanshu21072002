@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://ml.globenewswire.com/Resource/Download/f980e320-6962-447f-8933-d8819a4908f0" alt="himanshu21072002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu21072002" alt="himanshu21072002" /></a> </p>
-
 - 🔭 I’m currently working as a **Software Engineer at Germin8 Solutions**
 
 - 🚀 Experienced in building **scalable Spring Boot microservices**, **Flutter apps**, and **React applications**  
