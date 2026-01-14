@@ -3,7 +3,7 @@
 <img align="center" alt="Coding GIF" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JiZ29uc3JueG83a3ozNDVuemZleG1weXN0emxueng1dmlwYzlxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu21072002&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu21072002" /> </p>
+<p align="left"> <img src="https://ml.globenewswire.com/Resource/Download/f980e320-6962-447f-8933-d8819a4908f0" alt="himanshu21072002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu21072002" alt="himanshu21072002" /></a> </p>
 
